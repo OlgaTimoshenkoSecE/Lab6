@@ -4,7 +4,6 @@ let myString = "Hello, JavaScript!";
 console.log(myNumber, myString);
 console.log("\n")
 //task 2
-let numb = []
 for (let i=0; i<11;i++){
     console.log(i);
 }
